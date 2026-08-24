@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Discussions
+    url: https://github.com/AetherAC/issue/discussions
+    about: Ask questions and discuss features
+  - name: Documentation
+    url: https://aetherac.abnt.it
+    about: Check the documentation first
+  - name: Security Vulnerability
+    url: https://github.com/AetherAC/issue/security
+    about: Report security issues privately
+  - name: Support
+    url: mailto:contact@abnt.it
+    about: For private support inquiries
