@@ -37,11 +37,7 @@ enhancement suggestion, please include:
 
 ### Pull Requests
 
-1. Fork the repository and create your branch from `main`
-2. If you've added code, add tests
-3. Ensure the code passes existing tests
-4. Make sure your code is properly formatted
-5. Issue that pull request!
+Closed Source — Not Accepting Pull Requests.
 
 ## Development Setup
 
