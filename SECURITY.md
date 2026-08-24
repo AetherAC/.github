@@ -4,7 +4,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to [contact@abnt.it](mailto:contact@abnt.it) or [here](https://github.com/AetherAC/issue/security).
+Instead, please report them via email to [contact@abnt.it](mailto:contact@abnt.it) or [here](https://github.com/AetherAC/issue/security/advisories/new).
 
 You should receive a response within 48 hours. If for some reason you do not,
 please follow up via email to ensure we received your original message.
