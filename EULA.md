@@ -51,14 +51,14 @@ You **may NOT**:
 
 | Restriction | Description |
 |-------------|-------------|
-| ❌ Redistribute | Share, sell, rent, lease, or sublicense the Software to third parties |
-| ❌ Decompile/Reverse Engineer | Decompile, disassemble, or reverse engineer the Software (except as permitted by applicable law) |
-| ❌ Remove Attribution | Remove or alter any copyright, trademark, or proprietary notices |
-| ❌ Circumvent Licensing | Bypass license validation mechanisms |
-| ❌ Single License → Multiple Servers | Use a Single License on more than one Server Core |
-| ❌ Network License → Separate Networks | Use a Network License for multiple unrelated Networks |
-| ❌ Embed/Resell | Embed AetherAC into a product or service for resale without Enterprise licensing |
-| ❌ Hosting Providers | Use AetherAC as part of a server hosting service without Enterprise licensing |
+| Redistribute | Share, sell, rent, lease, or sublicense the Software to third parties |
+| Decompile/Reverse Engineer | Decompile, disassemble, or reverse engineer the Software (except as permitted by applicable law) |
+| Remove Attribution | Remove or alter any copyright, trademark, or proprietary notices |
+| Circumvent Licensing | Bypass license validation mechanisms |
+| Single License → Multiple Servers | Use a Single License on more than one Server Core |
+| Network License → Separate Networks | Use a Network License for multiple unrelated Networks |
+| Embed/Resell | Embed AetherAC into a product or service for resale without Enterprise licensing |
+| Hosting Providers | Use AetherAC as part of a server hosting service without Enterprise licensing |
 
 ---
 
