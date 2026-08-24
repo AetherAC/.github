@@ -1,0 +1,57 @@
+name: Feature Request
+description: Suggest an idea for AetherAC
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees:
+  - Aether-254
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a feature! We're always looking to improve AetherAC.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of what the problem is.
+      placeholder: "I'm frustrated when [...]"
+    validations:
+      required: false
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the Solution
+      description: A clear and concise description of what you want to happen.
+      placeholder: "AetherAC should detect [...]"
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any alternative solutions or features you've considered.
+      placeholder: "I also tried [...]"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: importance
+    attributes:
+      label: Importance
+      description: How important is this feature to you?
+      options:
+        - Nice to have
+        - Important
+        - Critical
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any screenshots, mockups, or research that might help.
+      placeholder: "Here's how other anti-cheats handle this..."
