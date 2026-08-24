@@ -18,7 +18,6 @@ This repository contains the community health files for the AetherAC organizatio
 
 - [AetherAC/anticheat](https://github.com/AetherAC/anticheat) - Private
 - [AetherAC/research](https://github.com/AetherAC/research) - Private
-- [AetherAC/join_us](https://github.com/AetherAC/join_us) - Public
 - [AetherAC/issue](https://github.com/AetherAC/issue) - Public
 
 ## License
