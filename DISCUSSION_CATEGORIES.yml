@@ -1,0 +1,31 @@
+# This file defines the discussion categories for the AetherAC community
+
+- type: announcements
+  label: Announcements
+  description: Official announcements from the AetherAC team
+  is_collapsible: false
+
+- type: general
+  label: General Discussion
+  description: General discussion about AetherAC
+  is_collapsible: false
+
+- type: ideas
+  label: Feature Requests
+  description: Suggest new features and improvements
+  is_collapsible: false
+
+- type: help
+  label: Help & Support
+  description: Get help with using AetherAC
+  is_collapsible: false
+
+- type: q-and-a
+  label: Q&A
+  description: Ask questions and get answers
+  is_collapsible: false
+
+- type: community-showcase
+  label: Community Showcase
+  description: Show how you use AetherAC
+  is_collapsible: true
