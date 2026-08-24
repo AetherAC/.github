@@ -33,12 +33,12 @@ AetherAC collects minimal telemetry to ensure the software functions correctly:
 
 ### 1.3 What We DO NOT Collect
 
-- ❌ Player usernames or UUIDs
-- ❌ Player IP addresses
-- ❌ Player chat messages
-- ❌ Player movement data (beyond aggregated detection statistics)
-- ❌ Server files, configurations, or plugin lists
-- ❌ Personal data of players on your server
+- Player usernames or UUIDs
+- Player IP addresses
+- Player chat messages
+- Player movement data (beyond aggregated detection statistics)
+- Server files, configurations, or plugin lists
+- Personal data of players on your server
 
 ---
 
