@@ -54,3 +54,50 @@ enhancement suggestion, please include:
 
 ```bash
 ./gradlew build
+```
+
+### Running Tests
+
+```bash
+./gradlew test
+```
+
+## Style Guides
+
+### Git Commit Messages
+
+- Use the present tense ("Add feature" not "Added feature")
+- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+- Limit the first line to 72 characters or less
+- Reference issues and pull requests liberally after the first line
+
+### Java/Kotlin Style
+
+- Follow the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- Use 4 spaces for indentation
+- Use meaningful variable names
+- Document public APIs with Javadoc
+
+## Additional Notes
+
+### Issue and Pull Request Labels
+
+| Label | Purpose |
+|-------|---------|
+| `bug` | Something isn't working |
+| `enhancement` | New feature or request |
+| `documentation` | Documentation improvements |
+| `help wanted` | Extra attention is needed |
+| `good first issue` | Good for newcomers |
+| `research` | Needs investigation |
+
+## Recognition
+
+Contributors will be recognized in our README and release notes.
+
+## Questions?
+
+If you have any questions, feel free to reach out at
+[contact@abnt.it](mailto:contact@abnt.it) or open a discussion.
+
+Thank you for contributing to AetherAC! 
