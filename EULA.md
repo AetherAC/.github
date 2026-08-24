@@ -1,235 +1,245 @@
-### AETHERAC END USER LICENSE AGREEMENT
+# AetherAC End-User License Agreement (EULA)
 
 **Last Updated:** August 24, 2026
 
-**IMPORTANT – READ CAREFULLY:** This End User License Agreement ("EULA") is a legal agreement between you ("Licensee" or "you") and AetherAC ("Licensor," "we," "us," or "our") for the AetherAC anti-cheat software product ("Software").
-
-BY PURCHASING, DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE, DO NOT PURCHASE, DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+**IMPORTANT:** BY PURCHASING, DOWNLOADING, INSTALLING, OR USING AetherAC ("THE SOFTWARE"), YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT PURCHASE, DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
 
 ---
 
-### 1. DEFINITIONS
+## 1. Definitions
 
 | Term | Definition |
 |------|------------|
-| **"Software"** | AetherAC anti-cheat system, including all code, binaries, configuration files, documentation, and associated materials |
-| **"Server Core"** | One running instance of a Minecraft server (Paper, Purpur, Folia, Spigot, Fabric, Forge, NeoForge) on which the Software is installed |
-| **"Network"** | Multiple Server Cores operating under the same administrative control (e.g., Hub, Survival, Skyblock, Minigame servers) |
-| **"License Key"** | The unique activation key provided by Licensor to Licensee |
-| **"Permitted Use"** | Use of the Software in accordance with the license type purchased |
-| **"Documentation"** | User guides, API references, and other technical materials provided with the Software |
-| **"Update"** | Bug fixes, patches, minor improvements, and security updates |
-| **"Major Release"** | Significant feature releases denoted by major version number increments (e.g., v2.x, v3.x) |
+| **"AetherAC"** / **"Software"** | The anti-cheat software, including all code, binaries, configurations, and documentation |
+| **"License"** | The right to use the Software as granted under this agreement |
+| **"Server Core"** | A single running instance of a Minecraft server (Paper/Purpur/Folia/Spigot/Fabric/Forge/NeoForge) |
+| **"Network"** | Multiple Server Cores operating under the same administrative control (e.g., Hub, Survival, Skyblock, Minigames) |
+| **"Proxy Server"** | Velocity, BungeeCord, or similar Minecraft proxy software |
+| **"You"** / **"Licensee"** | The individual or legal entity purchasing and using the Software |
+| **"Single License"** | License covering one Server Core |
+| **"Network License"** | License covering unlimited Server Cores within a single Network |
 
 ---
 
-### 2. GRANT OF LICENSE
+## 2. License Grant
 
-Subject to the terms of this EULA and payment of applicable fees, Licensor grants Licensee a **non-exclusive, non-transferable, for the license term specified at purchase** license to use the Software in accordance with the license type purchased at the time of acquisition.
+### 2.1 Single License ($50 USD — Lifetime)
 
-**Proxy servers** (Velocity, BungeeCord, Waterfall) are **included at no additional cost** under any license type.
+Subject to your compliance with this agreement, we grant you a **perpetual, non-exclusive, non-transferable** license to:
+
+- Install and use AetherAC on **one (1) Server Core**
+- Use AetherAC on any Proxy Server connected to that Server Core (at no additional cost)
+- Use AetherAC for commercial and non-commercial purposes
+
+### 2.2 Network License ($50 USD — Lifetime)
+
+Subject to your compliance with this agreement, we grant you a **perpetual, non-exclusive, non-transferable** license to:
+
+- Install and use AetherAC on **unlimited Server Cores** within a single Network
+- Use AetherAC on any Proxy Server connected to that Network (at no additional cost)
+- Use AetherAC for commercial and non-commercial purposes
+
+### 2.3 Enterprise License (Custom Pricing)
+
+For large-scale deployments, server hosting providers, and commercial redistribution rights. Contact us at [contact@abnt.it](mailto:contact@abnt.it).
 
 ---
 
-### 3. LICENSE RESTRICTIONS
+## 3. License Restrictions
 
-Licensee **may NOT**:
+You **may NOT**:
 
 | Restriction | Description |
 |-------------|-------------|
-| **Copy or Redistribute** | Copy, reproduce, or redistribute the Software to third parties |
-| **Decompile or Reverse Engineer** | Decompile, disassemble, reverse engineer, or attempt to extract the Software's source code |
-| **Remove Notices** | Remove or alter any copyright, trademark, or other proprietary notices |
-| **Resell or Sublicense** | Resell, rent, lease, sublicense, or otherwise transfer the Software |
-| **Modify** | Modify, adapt, or create derivative works of the Software |
-| **Circumvent** | Circumvent any license key, authentication, or protection mechanisms |
-| **Competitive Use** | Use the Software to develop or improve competing anti-cheat products |
-| **Use in Malicious Ways** | Use the Software for any malicious, unethical, or illegal purposes |
+| ❌ Redistribute | Share, sell, rent, lease, or sublicense the Software to third parties |
+| ❌ Decompile/Reverse Engineer | Decompile, disassemble, or reverse engineer the Software (except as permitted by applicable law) |
+| ❌ Remove Attribution | Remove or alter any copyright, trademark, or proprietary notices |
+| ❌ Circumvent Licensing | Bypass license validation mechanisms |
+| ❌ Single License → Multiple Servers | Use a Single License on more than one Server Core |
+| ❌ Network License → Separate Networks | Use a Network License for multiple unrelated Networks |
+| ❌ Embed/Resell | Embed AetherAC into a product or service for resale without Enterprise licensing |
+| ❌ Hosting Providers | Use AetherAC as part of a server hosting service without Enterprise licensing |
 
 ---
 
-### 4. OWNERSHIP AND INTELLECTUAL PROPERTY
+## 4. License Transfer
 
-- The Software is licensed, **not sold**
-- Licensor retains **all right, title, and interest** in the Software, including all intellectual property rights
-- This EULA does **not** transfer any ownership rights
-- No implied licenses are granted
-- Licensee acknowledges that reverse engineering is prohibited and protected by law
+Licenses are **non-transferable**. You may not transfer your license to another person or entity.
+
+If you sell your server, the new owner must purchase their own license.
 
 ---
 
-### 5. FEES AND PAYMENT
+## 5. Updates and Support
 
-| Clause | Description |
-|--------|-------------|
-| **License Fees** | License fees are set forth at the time of purchase and are **non-refundable** |
-| **Taxes** | Licensee is responsible for all applicable taxes |
-| **Currency** | All fees are in **US Dollars (USD)** unless otherwise specified |
-| **Payment Methods** | Payment methods are specified at time of purchase |
-| **No Refunds** | Due to the digital nature of the Software, **no refunds will be issued** after the License Key has been generated and delivered |
+### 5.1 Updates
 
----
+All licenses include **lifetime updates** for the purchased version tier (Single or Network). Updates include:
+- Bug fixes and security patches
+- New detection methods
+- Compatibility updates for new Minecraft versions
 
-### 6. SUPPORT AND UPDATES
+### 5.2 Support
 
-Licensor may provide support and updates at its sole discretion. The level of support, if any, shall be specified at the time of purchase.
+| License Type | Support |
+|--------------|---------|
+| Single License | 3 months of email support from purchase date |
+| Network License | 6 months of email support from purchase date |
+| Enterprise License | 12 months of priority support |
 
-| Type | Description |
-|------|-------------|
-| **Updates** | Bug fixes, security patches, and performance improvements |
-| **Major Releases** | New features and significant architectural changes |
-| **Security Critical Updates** | Fixes for security vulnerabilities |
-| **Support Availability** | Subject to the support plan purchased, if any |
+### 5.3 Support Extensions
 
-Licensor reserves the right to modify, suspend, or discontinue support offerings at any time.
+Additional support can be purchased separately. Contact [contact@abnt.it](mailto:contact@abnt.it) for pricing.
 
 ---
 
-### 7. DATA COLLECTION AND PRIVACY
+## 6. Refund Policy
 
-To improve the Software, Licensor may collect **anonymized data** about the operation of the Software, including:
+We offer a **7-day money-back guarantee** from the date of purchase, provided:
 
-| Data Type | Purpose |
-|-----------|---------|
-| **Version Information** | Understanding version distribution |
-| **Performance Metrics** | Improving efficiency |
-| **Detection Statistics** | Improving detection accuracy |
-| **Error Reports** | Fixing bugs |
-| **License Usage** | License compliance verification |
+- The Software has not been used on a production server (testing on local/development servers is allowed)
+- You have not filed a chargeback or dispute
+- You provide a reason for the refund request
 
-**Licensee agrees to:**
+To request a refund, email [contact@abnt.it](mailto:contact@abnt.it) within 7 days of purchase.
 
-- Allow transmission of anonymized data to Licensor
-- Not modify or block the Software's data collection
-- Not tamper with License Key verification
-
-**Licensor agrees to:**
-
-- Not collect personally identifiable information
-- Not share collected data with third parties
-- Anonymize all data before storage
-- Comply with applicable data protection laws
-- Provide data deletion requests upon written request
-
-**Privacy Policy:** [Privacy_Policy.md.md](https://github.com/AetherAC/.github/blob/main/Privacy_Policy.md)
+Refunds are processed within 5-10 business days.
 
 ---
 
-### 8. NO WARRANTY
+## 7. Ownership and Intellectual Property
+
+| Owner | Property |
+|-------|----------|
+| AetherAC / Aether_254 | All code, binaries, documentation, and materials |
+| You | Your server data, configurations, and player data |
+
+This license does not grant you ownership of the Software. You are licensed to use it, not to own it.
+
+All rights not expressly granted are reserved.
+
+---
+
+## 8. Disclaimer of Warranties
 
 THE SOFTWARE IS PROVIDED **"AS IS"** AND **"AS AVAILABLE"** WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
 
-- Fitness for a particular purpose
 - Merchantability
+- Fitness for a particular purpose
 - Non-infringement
-- Error-free operation
-- Compatibility with all servers, plugins, or mods
+- Uninterrupted or error-free operation
+- Detection of all cheats or bypasses
 
-**Licensor does not warrant that:**
-
-- The Software will detect all cheats or prevent all hacking
-- The Software will not cause server crashes or performance issues
-- The Software will be compatible with all third-party software
+We do not warrant that AetherAC will catch every cheat, bypass, or exploit. The Software is provided as a tool, not a guarantee of a cheat-free server.
 
 ---
 
-### 9. LIMITATION OF LIABILITY
+## 9. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, AETHERAC AND ITS DEVELOPERS SHALL NOT BE LIABLE FOR:
 
-| Type | Examples |
-|------|----------|
-| **Consequential Damages** | Loss of profits, data, or goodwill |
-| **Indirect Damages** | Any indirect loss arising from use of the Software |
-| **Third-Party Claims** | Claims brought by third parties against Licensee |
-| **Server Issues** | Server crashes, data loss, or performance degradation |
+| Damages | Description |
+|---------|-------------|
+| Direct Damages | Loss of data, server downtime, or player losses |
+| Indirect Damages | Any loss of profit, revenue, or business |
+| Consequential Damages | Losses arising from the use or inability to use the Software |
+| Third-Party Claims | Claims from your players or third parties |
 
-**Liability Cap:** Licensor's total liability shall not exceed the total fees paid by Licensee in the 12 months preceding the claim.
-
----
-
-### 10. INDEMNIFICATION
-
-Licensee agrees to **indemnify and hold harmless** Licensor from any claims arising from:
-
-- Use of the Software in violation of this EULA
-- Use of the Software with other software that violates third-party rights
-- Licensee's activities while using the Software
-- Violation of applicable laws or regulations
+IN NO EVENT SHALL OUR TOTAL LIABILITY EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE.
 
 ---
 
-### 11. TERM AND TERMINATION
+## 10. Indemnification
 
-| Clause | Description |
-|--------|-------------|
-| **Term** | As specified in the license term purchased (e.g., 6 months, 1 year, etc.) |
-| **Termination by Licensee** | Licensee may terminate by ceasing use and destroying the Software |
-| **Termination by Licensor** | Licensor may terminate immediately if Licensee breaches this EULA |
-| **Effect of Termination** | All rights granted under this EULA cease; Licensee must stop using and destroy the Software |
-| **Survival** | Sections 3, 4, 5, 8, 9, 10, 11, 12, 13, 14 survive termination |
-| **Expiration** | Upon expiration of the license term, Licensee must cease using the Software and destroy all copies unless the license is renewed |
----
+You agree to indemnify and hold harmless AetherAC and its developers from any claims, damages, losses, or expenses arising from:
 
-### 12. GOVERNING LAW AND DISPUTE RESOLUTION
-
-| Clause | Description |
-|--------|-------------|
-| **Governing Law** | Republic of Singapore |
-| **Arbitration** | Refer to Singapore International Arbitration Centre (SIAC) under SIAC rules |
-| **Arbitration Language** | English |
-| **Arbitration Location** | Singapore |
-| **Award** | Final and binding, enforceable in any court of competent jurisdiction |
-| **New York Convention** | Both parties acknowledge that the arbitration clause is governed by the New York Convention |
+- Your use of the Software
+- Your violation of this agreement
+- Your violation of any third-party rights
+- Your server's content or player behavior
 
 ---
 
-### 13. AUDIT AND COMPLIANCE
+## 11. License Validation and Enforcement
 
-Licensor has the right to **audit Licensee's use of the Software** to ensure compliance with this EULA:
+### 11.1 Validation
 
-- Upon reasonable notice (at least 7 business days)
-- During normal business hours
-- With a third-party auditor approved by both parties
-- Limited to once per year unless breach is suspected
-- All information obtained shall be subject to the NDA
+The Software may periodically validate your license with our servers. This may include sending:
 
----
+- License key
+- Server IP address (hashed for privacy)
 
-### 14. GENERAL PROVISIONS
+Failure to validate may result in the Software entering a reduced-functionality mode.
 
-| Clause | Description |
-|--------|-------------|
-| **Entire Agreement** | This EULA supersedes all prior agreements and understandings |
-| **Amendments** | Must be in writing and signed by both parties (or via updated EULA on website) |
-| **Waiver** | Failure to enforce any provision does not waive the right to enforce it later |
-| **Severability** | Invalid provisions shall be modified to be valid and enforceable |
-| **No Assignment** | Licensee may not assign this EULA without prior written consent |
-| **Force Majeure** | Neither party shall be liable for delays caused by events beyond their reasonable control |
-| **Notices** | Shall be sent to the email address on file (Licensee) or to [contact@abnt.it](mailto:contact@abnt.it) (Licensor) |
-| **Relationship** | Nothing in this EULA creates a partnership, joint venture, or agency relationship |
+### 11.2 Abuse Prevention
+
+We reserve the right to suspend or terminate your license without refund if we detect:
+
+- License sharing or unauthorized use
+- Fraudulent purchases or chargebacks
+- Bypassing license validation
+- Violation of any other term in this EULA
 
 ---
 
-### 15. ACKNOWLEDGMENT
+## 12. Termination
 
-By purchasing, downloading, installing, or using the Software, Licensee acknowledges that:
+### 12.1 Termination by You
 
-- They have read and understood this EULA
-- They agree to be bound by all terms and conditions
-- They have the authority to enter into this agreement
-- They understand that violations may result in legal action
+You may terminate this agreement at any time by ceasing use of the Software and deleting all copies.
 
----
+**Refunds are not provided for voluntary termination.**
 
-### 16. CONTACT
+### 12.2 Termination by Us
 
-For questions about this EULA, contact:
+We may terminate this agreement immediately if you violate any term of this EULA. Upon termination:
 
-AetherAC
-Email: contact@abnt.it
-Website: https://aetherac.abnt.it
+- Your right to use the Software ends
+- You must delete all copies of the Software
+- No refund will be provided
 
 ---
 
-**AETHERAC END USER LICENSE AGREEMENT – ALL RIGHTS RESERVED**
+## 13. Governing Law
+
+This agreement shall be governed by the laws of **Singapore**, without regard to conflict of law principles.
+
+Any disputes arising from this agreement shall be resolved in the courts of Singapore.
+
+---
+
+## 14. Severability
+
+If any provision of this agreement is found to be unenforceable, the remaining provisions shall remain in full force and effect.
+
+---
+
+## 15. Entire Agreement
+
+This EULA constitutes the entire agreement between you and AetherAC regarding the Software and supersedes all prior agreements, communications, and understandings.
+
+---
+
+## 16. Changes to This EULA
+
+We reserve the right to update this EULA at any time. Changes will be posted on our website. Your continued use of the Software after changes constitutes acceptance of the updated terms.
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 2026-08-24 | Initial EULA |
+
+---
+
+## 17. Acceptance
+
+By purchasing, downloading, installing, or using AetherAC, you acknowledge that you have read, understood, and agreed to the terms of this EULA.
+
+---
+
+## 18. Contact
+
+For questions, concerns, or enterprise inquiries:
+
+**Email:** [contact@abnt.it](mailto:contact@abnt.it)  
+**Website:** [https://aetherac.abnt.it](https://aetherac.abnt.it)  
+**GitHub:** [https://github.com/AetherAC](https://github.com/AetherAC)
