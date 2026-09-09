@@ -34,7 +34,7 @@ Built from the ground up — not a fork, not a copy-paste.
 - **Proxy servers** (Velocity/BungeeCord) are always free
 - **Enterprise** required for server hosting providers and commercial resale
 
-Upgrade from Single Core to Network: $XX (additional cost)
+Upgrade from Single Core to Network: [contact us] (additional cost)
 [Contact us →](mailto:contact@abnt.it)
 
 ---
